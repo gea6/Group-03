@@ -1,0 +1,41 @@
+Project: Group Project 03
+Meeting: Weekly Project Meeting
+Persons present: Casey Gemma [gea6], Cumberlidge Angus [anc32], Marek Oliwia Karolina [okm], Thian Chen Tan [tct], Xiaomin Xiao [xix5], Luke Thomas[lut14]
+Place and date of meeting: C55, Wednesday 14th October 2015 / Think Tank, Friday 16th October 2015
+Circulation list: All project members, plus project manager
+Author: Oliwia Marek
+Date of minutes: 19th October 2015
+Version: 1.0
+
+Matters arising:
+1. Chose leader - Oliwia (okm)
+ACTION: Everyone
+
+2. Chose QA manager - Gemma (gea6)
+ACTION: Everyone
+
+3. Chose dep leader - Luke (lut14)
+ACTION: Everyone
+
+4. Chose dep QA - Thian (tct)
+ACTION: Everyone
+
+5. Created github repository
+ACTION: Angus (anc32)
+
+
+New business:
+1. Design of the web page needs to be done:
+ACTION: lut14
+
+2. Design of the java GUI needs to be done:
+ACTION: anc32
+
+3. Gantt chart needs to be done:
+ACTION: gea6
+
+
+
+AOB:
+1. Try to contact last group member (Micheal Pocock).
+2. Created a repository on github, but may change to private later.

@@ -1,0 +1,45 @@
+Project: Group Project 03
+Meeting: Weekly Project Meeting
+Persons present: Casey Gemma [gea6], Cumberlidge Angus [anc32], Marek Oliwia Karolina [okm], Thian Chen Tan [tct], Xiaomin Xiao [xix5]
+Place and date of meeting: C55, Wednesday 7th October 2015
+Circulation list: All project members, plus project manager
+Author: Xiaomin Xiao
+Date of minutes: 8th October 2015
+Version: 1.0
+
+Matters arising
+===============
+
+None.
+
+New business
+============
+
+1. Set up a weekly group meeting. Gemma Casey will start a poll to schedule a weekly group meeting.
+ACTION: gea6
+
+2. Send a link of a weekly blog to Project Manager [rcs@aber.ac.uk].
+ACTION: Everyone
+
+3. Read Quality Assurance Documents - SE.QA.01 - 03.
+ACTION: Everyone
+
+4. The "Design Specification Standards" document needs to be read.
+ACTION: anc32
+
+5. The "Project Plan Specification Standards" document needs to be read.
+ACTION: okm
+
+6. The "Test Procedure Standards" document needs to be read.
+ACTION: gea6
+
+7. The "Review Standards" document needs to be read.
+ACTION: tct
+
+8. The "Operating Procedures and Configuration Management Standards" document needs to be read.
+ACTION: xix5
+
+AOB
+===
+
+None.
