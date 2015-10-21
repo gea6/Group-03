@@ -1,0 +1,61 @@
+\documentclass{project}
+\begin{document}
+\title{Software Engineering Group Project}
+\subtitle{Interaction and high level Design for the system}
+\author{Group 03}     
+\shorttitle{\LaTeX}
+\version{0.1}
+\status{Draft}
+\configref{Not sure}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+%Decided to put here for now what Pauly wrote on the blog he sent us
+
+\section{DEPLOYMENT DESCRIPTION}
+\subsection{Applications in the system}
+\begin{itemize}
+\item TaskerSRV - A MySQL server which will receive and store/delete task data via TaskerMan (Website) and TaskerCLI.
+\item TaskerMan - A website which can edit the records of TaskerSRV through a web interface using PHP, jQuery and Bootstrap.
+\item TaskerCLI - A Java program that will need use a email for authorisation to communicate with TaskerSVR  using JDBC with MySQL driver.
+
+\end{itemize}
+
+\subsection{Application interactions}
+
+\section{INTERACTION DESIGN}
+\subsection{Use-cases}
+\subsection{User Interface design}
+
+\section{COMPONENT DESCRIPTION}
+
+\section{SIGNIFICANT CLASSES}
+\subsection{Interface Description}
+
+\section{DETAILED DESIGN}
+\subsection{Sequence diagrams}
+\subsection{State diagrams}
+\subsection{Activity diagrams}
+\subsection{Significant data structures}
+
+\clearpage
+\addcontentsline{toc}{section}{REFERENCES}
+\begin{thebibliography}{5}
+\bibitem{se.qa.03} Nothing yet
+\end{thebibliography}
+\clearpage
+
+\addcontentsline{toc}{section}{DOCUMENT HISTORY}
+\section*{DOCUMENT HISTORY}
+\begin{tabular}{|l | l | l | l | l |}
+\hline
+Version & CCF No. & Date & Changes made to Document & Changed by \\
+\hline
+0.1 & N/A & 2015-10-20 & Initial creation & OKM \\
+\hline
+\end{tabular}
+\label{thelastpage}
+\end{document}
