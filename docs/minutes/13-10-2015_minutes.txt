@@ -1,0 +1,95 @@
+Project: Group Project 03
+Meeting: Weekly Project Meeting 02
+Persons present: Casey Gemma [gea6], Cumberlidge Angus [anc32], Marek Oliwia Karolina [okm], Thian Chen Tan [tct], Xiaomin Xiao [xix5], Thomas Luke [lut14]
+Persons missing: Spedding Paul [pas43], Project Manager
+Place and date of meeting: P5, Tuesday 13th October 2015
+Circulation list: All project members
+Author: Casey Gemma
+Date of minutes: 14th October 2015
+Version: 1.0
+
+Matters arising
+===============
+
+1. We finally met up with another person within our group Luke Thomas [lut14]. He didn＊t make the last meeting due to illness.
+
+2. Found out that another person within our group Paul Spedding [pas43] has had slipped disc within his back as has yet to return to university due to health. He has emailed the group saying he is willing to do his part and work at home.
+
+New business
+============
+
+1. Gemma Casey and Oliwia Marek will set up weekly meeting for the group before our big group meetings with the Project manager. 
+ACTION: [gea6] and [okm]
+
+2. Send a link of a weekly blog to Project Manager [rcs@aber.ac.uk].
+ACTION: Everyone
+
+3. Read Quality Assurance Documents - SE.QA.01 - 03.
+ACTION: Everyone
+
+4. Design Specification Standards 每 SE.QA.05A
+-	Specifies the about and content of the design spec. 
+-	Clients Requirements for the design spec. 
+-	Quality standards must be met
+-	Shows the Software structure.
+-	Include introduction, references, descriptions for the command line in basic English
+-	Diagrams (all in basic English):- Use Case and 1 or more URL diagrams 
+-	Look at the example in the documents of the table layout so ours looks similar.
+-	Users will have to interact our system 
+-	Platforms may be generic.
+-	Alphabetical ordering is the best option to use for our project
+-	Detail and demonstrate what will work with the system 
+-	Detail design which should refer to the algorithms including description.
+ACTION: anc32
+
+5. Project Plan Specification Standards 每 SE.QA.05b.
+-	Gantt Chart will need to be created which has to be no more than an A4 piece of paper. With it must be in basic English a description for what is going on with each activity.
+-	Risk Analysis information is included within this document. 
+-	Minutes are here and must include members attended (including note of sick members), business of the last minutes to be discussed, what is to be discussed this meeting, who is doing what when it has been discussed, any other business and the date when it was created.
+ACTION: okm
+ 
+6. Test Procedure Standards 每 SE.QA.06.
+-	Module testing- Java Class with each class developed should have Junit test class.  Write this before designing and writing code (Programmer responsible) Don＊t need test plans/specification
+-	System testing- Must be tested by a person who isn＊t involved in the design or programming the modules. Need plans/specification
+-	Acceptance testing - involves testing the whole system following the set procedures by the client. When pass the tests and client likes it they will accept the product. This testing is carried out by the client with all group members around them.
+-	Module testing left to coder. Java code take the form of Junit that tests all behaviour of the class. Written before coding is done. Other languages used, equivalent unit testing procedures should be defined. 
+-	System testing done by writing a System Testing Specification during the design phase (covers major functionality). If system comprises more than 1 application, best to test each application independently to ensure that no errors are hidden anywhere. Test report will be needed to document any implementations that worked incorrectly.
+-	Test Specification must cross reference appropriate section of the Requirements Specification for each feature tested. Also include an introduction/ reference section.
+-	Must be very clear documentation including the table.
+-	Test results must be maintained in a Test Report Folder. 2 sections:- Module Test and System Test. 
+-	Test reports must be stored electronically in Version Control Repository.
+-	Once coding complete the test should run and results be submitted with final report as a Test Report.
+-	All items comprising a system to be tested are frozen into an identified configuration (tagged under name/number) Must use git tag. 
+-	System Level Tests must be conducted periodically. 
+-	A Test Form should be completed each time system tests are conducted. Results stored in Version Controlled Repository. 
+ACTION: gea6
+
+7. Review Standards 每 SE.QA.07
+-	Every document we create has to be drafted first before we create a final document so any changes beforehand can be done. 
+-	Any questions which we would like to bring up or take forward must be written here.
+-	Project leader and our Project Manager will meet up and discuss certain matters 
+-	We have to make sure that we are answering the questions the client has given us to full fill. 
+ACTION: tct
+
+8. Operating Procedures and Configuration Management Standards 每 SE.QA.08.
+-	Any changes made to our documents must be documented.
+-	There is a given example on how the Configuration System works within this document.
+-	Label all things correctly
+-	Must give the configuration items ID＊s so we are able to locate them when needed.
+-	Directory must be created so we can see what everyone has added and work together on editing things which might need to be corrected.
+-	The Requirements which need to be followed are within this document.
+-	We must update our documents constantly making sure that it includes where were constantly at with our work.
+-	Must manage our note taking making sure it is documented correctly. 
+-	Document outlines how the documents and different parts need to be saved i.e. the formatting.
+-	Any problems/ corrections will be reported on GitHub and will be noted within documentation.
+ACTION: xix5
+
+AOB
+===
+
+1. Think of roles which we would like to be for our group
+
+2. Do the weekly blog for the Project Manager to see.
+
+
+ gea6@aber.ac.uk, 14th October 2015.
