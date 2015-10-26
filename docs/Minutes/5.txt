@@ -1,0 +1,27 @@
+Project: Group Project 03
+ Meeting: Weekly Project Meeting 05
+ Persons present: Casey Gemma [gea6], Cumberlidge Angus [anc32], Marek Oliwia Karolina [okm], Thian Chen Tan [tct], Xiaomin Xiao [xix5], Shipman Richard [rcs]
+Persons missing: Thomas Luke [lut14], Spedding Paul [pas43] and Pocock Michael
+ Place and date of meeting: C55, Wednesday 21th October 2015
+ Circulation list: All project members and Project Manager
+ Author: Casey Gemma
+ Date of minutes: 21th October 2015
+ Version: 1.0
+ Matters arising
+ ===============
+1.  Oliwia told Richard that Michael has not participated at all and he has agreed to give a yellow card to Michael Pocock.
+ACTION: Richard [rcs] 
+New business
+ ============
+1. Everyone has GitHUb up and running now and Richard needs to be added to it so he can see what’s happening. 
+ACTION: Angus [anc32]
+2. The group presented the Gantt chart to the Project Manager. It wasn’t complete as we hadn’t added an estimate of how long we were going to take on each activity. Richard explained a great way to do it in which we took his advice when he left and were able to complete what we needed. Gemma will fix and change the layout of the Gantt chart to make it user friendly and easier to understand. 
+ACTION: Gemma [gea6]
+3. We were instructed to start the Test specification document which Xiao has volunteered in doing.
+ACTION: Xiao [xix5]
+4. We were also have to write the design plan for next week’s big meeting. Oliwia has put a draft of this upon GitHub. Use Case application interactions and design of the system needs to go with it. Thian should be doing this and we think we have done most of this anyway.
+ACTION: Thian [tct]
+AOB
+ ====
+1. Richard has given Michael a yellow card due to him showing no interest in the project.
+gea6@aber.ac.uk, 20th October 2015
