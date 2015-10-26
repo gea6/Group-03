@@ -1,0 +1,14 @@
+Member
+- Member only allow to login TaskerCLI, the desktop application.
+- Member allow to view task, a list of assigned works with description.
+- Member able to edit task to change the current task details.
+- Member able to mark current task as a complete , complete task.
+
+Manager
+- Manager extends the member and allow to login TaskerMAN, website.
+- Manager can view the current task.
+- Manager has to view task to reallocate task or abandon task.
+- Manager allow to add new task.
+- Manager can view group members.
+- Manager has to view members to edit members or delete members.
+- Manager allow to add new member.
