@@ -1,0 +1,27 @@
+Member
+- Member only allow to login TaskerCLI, the desktop application.
+- Member allow to view task, a list of assigned works with description.
+- Member able to edit task to change the current task details.
+- Member able to mark current task as a complete , complete task.
+
+Manager
+- Manager extends the member and allow to login TaskerMAN, website.
+- Manager can view the current task.
+- Manager has to view task to reallocate task or abandon task.
+- Manager allow to add new task.
+- Manager can view group members.
+- Manager has to view members to edit members or delete members.
+- Manager allow to add new member.
+
+Example Usage Scenarios
+- Complete task
+  Member login into TaskerCLI and mark the completed task as complete.
+  
+- View task
+  Member login into TaskerCLI and click on "View Task" button, a list of task will be display.
+
+- Abandon task
+  Manager has to login into TaskerMAN, then click on the "View Task" button to select which task to abandon.
+  
+- Add member
+  In order to add new member, Manager login into TaskerMAN follow by clicking the "Add New Member" button.

@@ -1,0 +1,47 @@
+\documentclass[10pt]{article}
+\begin{document}
+\title{DATE Minutes}
+\author{Group 03}     
+\maketitle
+\noindent
+\textbf{Project}: Group Project 03 \\
+\textbf{Meeting}: Weekly Project Meeting \\
+\textbf{People present}: Casey Gemma [gea6], Cumberlidge Angus [anc32], Marek Oliwia Karolina [okm], Thian Chen Tan [tct], Xiaomin Xiao [xix5], Thomas Luke [lut14]
+\textbf{Place and date of meeting}: Think Tank, Tuesday 20th October 2015 \\
+\textbf{Circulation list}: All \\
+\textbf{Author}: Casey Gemma \\
+\textbf{Date of minutes}: 20th October 2015\\
+\textbf{Version}: 1.0
+
+\section{Matters arising}
+============== \\
+\begin{enumerate}
+\item Web Page Design have had drawn hands out done just yet to be added to them to the html \\ 
+ACTION: Luke[lut14] 
+\item Design for Java GUI has also been done and they have also yet to be added to the html.  \\ 
+ACTION: Angus[anc32]
+\item Gantt Chart has been started and the information i.e. the start dates and how long for is still being decided upon.  \\ 
+ACTION: Gemma[gea6]
+\end{enumerate}
+
+\section{New business}
+============== \\
+\begin{enumerate}
+\item Oliwia taught Luke and Gemma how to use GitEye, so we're able to push our documents on Github. \\
+ACTION: Oliwia[okm]
+\item We have tried contacting Michael Pocock to see if he was meant to be doing the project and he has not replayed to any of messages so we are going to ask Richard can he give this student a yellow card as he has yet to show any effort into doing this project yet.  \\
+ACTION: Oliwia [okm]
+\item Start Risk Analysis table \\
+ACTION: Luke[lut14] and Gemma[gea6]
+\item Gemma shown the Gantt Chart to the group for them to see what it looks like and to decide what dates do we start each activity and how long are we going to spend on it i.e. days, weeks, months etc.  \\
+ACTION: Everyone
+\end{enumerate}
+
+\section{AOB}
+============== \\
+None.
+
+\section*{}
+ gea6@aber.ac.uk, 20th October 2015
+
+\end{document}
