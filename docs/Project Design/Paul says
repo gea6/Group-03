@@ -9,11 +9,11 @@ A TaskerCLI works by transmitting data packets (TCP Packets) from the person who
 
 APPLICATIONS IN THE SYSTEM:
 
-Web Browser – users computer that needs a browser installed and a connection to the internet.
+Web Browser - users computer that needs a browser installed and a connection to the internet.
  TCP/IP, HTTP, WWW - data communication protocols that are going to be used to connect to the web server for access to the website(TaskerMAN) and to the database(TaskerSRV).
 Server - details of the serveer which runs on Linux(aber.ac.uk) that has Apache installed(Web Server) with the PHP extension installed to process PHP files. PHP extension makes calls to the MySQL DataBase(TaskerSRV) via PHP PDO Prepared statements.
-Public_html – place where we put all the files for the website, including scripts and web pages, that can be viewed via browsers. It can edit the records of TaskerSRV through a web interface using PHP, jQuery and Bootstrap.
-PC – has an Internet connection and TaskerCLI installed on to access TaskerSRV. Java program will use an email for an authorisation to communicate with TaskerSRV using JDBC and MySQL driver.
+Public_html - place where we put all the files for the website, including scripts and web pages, that can be viewed via browsers. It can edit the records of TaskerSRV through a web interface using PHP, jQuery and Bootstrap.
+PC - has an Internet connection and TaskerCLI installed on to access TaskerSRV. Java program will use an email for an authorisation to communicate with TaskerSRV using JDBC and MySQL driver.
 
 
 APPLICATIONS INTERACTIONS:
