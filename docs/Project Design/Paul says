@@ -1,0 +1,28 @@
+We are using HTTP (Hyper Text Transfer Protocol) for the website. The way this works is you send a request to a server asking for a resource; URL (Uniform resource locator).  A resource means is that we are asking for a web page to be formatted into e.g. .html,.php,pdf, mp3/4, image etc.
+When you send a request, you type the URL into your address bar e.g. www.bbc.co.uk or www.google.com. then once you press enter your browser generates a HTTP request and sends it to the URL.
+
+Once the server recives that request it then responds with the (html/php/mp3/etc.) file you asked for by delivering it to your browser. Your chrome/firefox rendering engine then looks at the code and displays all the links/pictures/text you requested.
+
+A TaskerCLI works by transmitting data packets (TCP Packets) from the person who has TaskerCLI to the MySQLdb (TaskerSr).
+
+
+
+APPLICATIONS IN THE SYSTEM:
+
+Web Browser - users computer that needs a browser installed and a connection to the internet.
+ TCP/IP, HTTP, WWW - data communication protocols that are going to be used to connect to the web server for access to the website(TaskerMAN) and to the database(TaskerSRV).
+Server - details of the serveer which runs on Linux(aber.ac.uk) that has Apache installed(Web Server) with the PHP extension installed to process PHP files. PHP extension makes calls to the MySQL DataBase(TaskerSRV) via PHP PDO Prepared statements.
+Public_html - place where we put all the files for the website, including scripts and web pages, that can be viewed via browsers. It can edit the records of TaskerSRV through a web interface using PHP, jQuery and Bootstrap.
+PC - has an Internet connection and TaskerCLI installed on to access TaskerSRV. Java program will use an email for an authorisation to communicate with TaskerSRV using JDBC and MySQL driver.
+
+
+APPLICATIONS INTERACTIONS:
+
+TaskerMan
+We are using http (Hyper Text Transfer Protocol) for the website. User sends a request to a server asking for a resource (URL (Uniform resource locator)). Resource is a web page (.html or .php or some other file mp3 or image).
+User sends a request by typing the URL into the address bar, eg. www.bbc.co.uk or www.google.com. Once they press enter, browser generates a HTTP request and sends it to the URL.
+Once the server receives that request, it then responds with the (html/php/mp3) file you asked for, by delivering it to your browser. Chrome/firefox rendering engine looks at the codes and displays all the links/pictures/text in the way it was intended.
+
+TaskerCLI 
+Java program works by transmitting data packets (TCP Packets) from the user using the program to the MySQL database (TaskerSrv).
+
