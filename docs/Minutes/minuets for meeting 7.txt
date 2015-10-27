@@ -1,0 +1,28 @@
+Project: Group Project 03
+Meeting: Weekly Project Meeting 07
+Persons present: Casey Gemma [gea6], Marek Oliwia Karolina [okm], Thian Chen Tan [tct], Xiaomin Xiao [xix5]
+Persons missing: Thomas Luke [lut14], Spedding Paul [pas43], Cumberlidge Angus [anc32], Shipman Richard [rcs] and Pocock Michael.
+ Place and date of meeting: Think Tank and C56 Delphinium. Tuesday 27th October 2015
+ Circulation list: All project members
+ Author: Casey Gemma
+ Date of minutes: 27th October 2015
+ Version: 1.0
+ Matters arising
+ ===============
+1.	 Gemma discussed with the Project Leader:- Oliwia [okm] about the layout of the Gant Chart. She has nearly finished the new design layout of the chart and will present it to the group either tomorrow during the big group meeting or on Friday 30th October 2015. 
+ACTION: Gemma [gea6] and Oliwia [okm]
+New business
+ ============
+1.	The Component Diagram had to be done today before the handing it in to our Project Manager on Tuesday 28th October 2015.  We sat around looking at example Component Diagrams from Google. Using our information from the Application diagram and the layouts we saw from the example, we created out Component Diagram. 
+ACTION: Gemma [gea6], Oliwia [okm], Thain [tct] and Xiao [xix5]
+2.	We started filling in the “Software Engineering Group Project- Interaction and High Level Design for the System” documentation. Using the template provided to us by the group Project Manager via BlackBoard we changed the information to match the information we have. We then included our diagrams and information explaining each diagram so anyone reading our document will be able to read and understand what’s going on within the diagram. 
+ACTION: Gemma [gea6], Oliwia [okm] and Thain [tct]
+3.	Luke has uploaded the Web Designs folder onto Git Hub which contains the Group Project- html Design. He included Diagrams and Descriptions for the diagrams to explain what is happening 
+ACTION: Luke [lut14]
+4.	Submit work online for our Group Project ready for the hand in tomorrow.
+ACTION: Everyone
+AOB
+ ====
+1. Ask Angus where he was as he didn’t answer any of our messages for a few days as we are expecting work from him. 
+2. Ask Richard what is going to happen with Michael Pocock as he is still not making any effort with this group project. 
+gea6@aber.ac.uk, 27th October 2015
